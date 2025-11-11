@@ -20,7 +20,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/2560px-Go_Logo_Blue.svg.png" alt="Go" width="90" height="50"/>
   <img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" alt="FastAPI" width="60" height="60"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1163px-Postgresql_elephant.svg.png" alt="PostgreSQL" width="60" height="60"/>
-  <img src="https://pngimg.com/d/mysql_PNG23.png" alt="MySQL" width="60" height="60"/>
+  <img src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" alt="MySQL" width="100" height="80"/>
   <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/97_Docker_logo_logos-512.png" alt="Docker" width="60" height="60"/>
   <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git" width="60" height="60"/>
 </p>
@@ -56,7 +56,4 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/2048px-Telegram_2019_Logo.svg.png" alt="Telegram" width="60" height="60"/>
   </a>
 </p>
-
-## 📊 GitHub Stats
-
 ---
