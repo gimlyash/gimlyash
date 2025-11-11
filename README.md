@@ -49,7 +49,7 @@
 
 ## 📱 Социальные сети
 <p>
-  <a href="www.linkedin.com/in/gimlyash">
+  <a href="https://www.linkedin.com/in/%D0%BD%D0%B8%D0%BA%D0%B8%D1%82%D0%B0-%D1%88%D1%83%D0%BB%D1%8F%D0%BA-a21410361/">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/1024px-LinkedIn_icon.svg.png" alt="LinkedIn" width="60" height="60"/>
   </a>
   <a href="https://t.me/evilllvampire">
