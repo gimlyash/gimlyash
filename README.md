@@ -49,7 +49,7 @@
 
 ## 📱 Социальные сети
 <p>
-  <a href="https://www.linkedin.com/in/никита-шуляк-a21410361?utm_source=share_via&utm_content=profile&utm_medium=member_ios">
+  <a www.linkedin.com/in/gimlyash">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/1024px-LinkedIn_icon.svg.png" alt="LinkedIn" width="60" height="60"/>
   </a>
   <a href="https://t.me/evilllvampire">
