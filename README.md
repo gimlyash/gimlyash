@@ -1,6 +1,6 @@
 # 👋 Привет
 
-Я — **Python Backend Developer** из Минска, Беларусь. Проектирую масштабируемые серверные решения, строю RESTful API и оптимизирую работу с базами данных. Специализируюсь на создании эффективных backend-сервисов с использованием современных технологий и best practices.
+Я — **Backend Developer** из Минска, Беларусь. Проектирую масштабируемые серверные решения, строю RESTful API и оптимизирую работу с базами данных. Специализируюсь на создании эффективных backend-сервисов с использованием современных технологий и best practices.
 
 ---
 
@@ -20,7 +20,7 @@
 
 <p>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/2048px-Python-logo-notext.svg.png" alt="Python" width="60" height="60"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/2560px-Go_Logo_Blue.svg.png" alt="Go" width="90" height="50"/>
+  <img src="https://go.dev/blog/go-brand/Go-Logo/PNG/" alt="Go" width="90" height="50"/>
   <img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" alt="FastAPI" width="60" height="60"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1163px-Postgresql_elephant.svg.png" alt="PostgreSQL" width="60" height="60"/>
   <img src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" alt="MySQL" width="100" height="80"/>
