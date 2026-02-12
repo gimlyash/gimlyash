@@ -20,7 +20,7 @@
 
 <p>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/2048px-Python-logo-notext.svg.png" alt="Python" width="60" height="60"/>
-  <img src="https://toppng.com/search?q=golang+logo" alt="Go" width="90" height="50"/>
+  <img src="https://go.dev/blog/go-brand/Go-Logo/PNG/" alt="Go" width="100" height="100"/>
   <img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" alt="FastAPI" width="60" height="60"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1163px-Postgresql_elephant.svg.png" alt="PostgreSQL" width="60" height="60"/>
   <img src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" alt="MySQL" width="100" height="80"/>
