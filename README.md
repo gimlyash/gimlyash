@@ -37,7 +37,7 @@
 
 ### Навыки
 **Backend Development:**
-- **API**: RESTful API, FastAPI, автоматическая документация (Swagger/OpenAPI), валидация данных через Pydantic
+- **API**: RESTful API, FastAPI, валидация данных через Pydantic
 - **Базы данных**: 
   - Проектирование схем данных (нормализация, индексы, constraints)
   - SQLAlchemy ORM (relationships, eager loading, query optimization)
