@@ -2,7 +2,7 @@
 I'm a **Junior Data Engineer** from Minsk, Belarus. I design and build scalable data pipelines, implement ETL/ELT processes, and create reliable data infrastructure for analytics and machine learning. I specialize in turning raw data into clean, accessible, and actionable insights using modern data engineering practices.
 ---
 ## 🚀 About me
-- Develop high-performance data pipelines in **Python** (Airflow, Spark, Pandas, Polars).
+- Develop high-performance data pipelines in **Python** (Airflow, Spark, Pandas).
 - Design and optimize data warehouses and data lakes using **PostgreSQL**, **ClickHouse**, and cloud storage solutions.
 - Automate data workflows with Apache Airflow, dbt, and modern orchestration tools.
 - Apply data modeling (Kimball, Data Vault), schema design, and quality assurance practices.
@@ -57,4 +57,4 @@ I'm a **Junior Data Engineer** from Minsk, Belarus. I design and build scalable 
 **Technologies:** Python, FastAPI, Kafka/WebSocket, PostgreSQL, Apache Superset, Spark (batch processing), Docker
 
 - **DeFiLytics** — Closed in access Finances AI analystics
-**Technologies:** Python, Django, WebSocket, PostgreSQL, Docker, plotly
+**Technologies:** Python, Django, WebSocket, PostgreSQL, Docker, Plotly
