@@ -3,9 +3,9 @@ I'm a **Junior Data Engineer** from Minsk, Belarus. I design and build scalable 
 ---
 ## 🚀 About me
 - Develop high-performance data pipelines in **Python** (Airflow, Spark, Pandas).
-- Design and optimize data warehouses and data lakes using **PostgreSQL**, **ClickHouse**, and cloud storage solutions.
+- Design and optimize data warehouses and data lakes using **PostgreSQL**.
 - Automate data workflows with Apache Airflow, dbt, and modern orchestration tools.
-- Apply data modeling (Kimball, Data Vault), schema design, and quality assurance practices.
+- Apply data modeling, schema design, and quality assurance practices.
 - Expanding expertise in cloud platforms (AWS/GCP) and learning **Go** for high-performance components.
 - Contact me: [Telegram](https://t.me/seyyyuhvmp)
 ---
@@ -29,11 +29,11 @@ I'm a **Junior Data Engineer** from Minsk, Belarus. I design and build scalable 
 
 ### Skills
 **Data Engineering:**
-- **Pipelines & Orchestration**: Apache Airflow, dbt, Luigi
-- **Data Processing**: Apache Spark, Pandas, Polars, Kafka (real-time streaming)
+- **Pipelines & Orchestration**: Apache Airflow, dbt
+- **Data Processing**: Apache Spark, Pandas, Polars, Kafka
 - **Databases & Warehouses**:
   - Relational (PostgreSQL, MySQL) and analytical (ClickHouse)
-  - Data modeling (Snowflake)
+  - Data modeling
   - Query optimization, partitioning, indexing
 - **Infrastructure**:
   - Docker & containerization
